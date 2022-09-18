@@ -1,0 +1,13 @@
+{
+  "name": "NaturalisationLoader",
+  "version": "1.0.0",
+  "description": "load from excel file question and response ",
+  "main": "index.js",
+  "author": "Lilk",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^9.8.3",
+    "node": "^17.7.2",
+    "read-excel-file": "^5.3.4"
+  }
+}
